@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, I'm AdiPol1359 👋
 
-<!--
-**AdiPol1359/AdiPol1359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 16yo programmer from Poland. I mainly write in Java, NodeJS and GoLang.
 
-Here are some ideas to get you started:
+## What I do?
+- FrontEnd: ReactJS / HTML, CSS, JS
+- BackEnd: Express / Spring
+- Discord Bot: TypeScript
+- Android Application: React Native / Android Studio
+- Desktop Application: JFrame / ElectronJS
+- Minecraft Java Plugins
+- MCBE Plugins
+- And a lot more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 My website: https://projectcode.pl <br />
+📝 Contact: AdiPol1359#0001
