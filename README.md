@@ -5,7 +5,7 @@ I am a 16yo programmer from Poland. I mainly write in Java, NodeJS and GoLang.
 ## What I do?
 - FrontEnd: ReactJS / HTML, CSS, JS
 - BackEnd: Express / Spring
-- Discord Bot: TypeScript
+- Discord Bot: Java - JDA
 - Android Application: React Native / Android Studio
 - Desktop Application: JFrame / ElectronJS
 - Minecraft Java Plugins
