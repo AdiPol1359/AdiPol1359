@@ -1,12 +1,14 @@
 ## Hello, I'm AdiPol1359 👋
 
-I am 17 yo software developer from Poland. I mainly write in Java, Kotlin and TypeScript. I am also amateur in C++ and GoLang.
+I am 17 yo software developer from Poland. I mainly write in TypeScript and Java. I am also amateur in C++ and GoLang. I hate Java and Spring since July 2022.
+Rust Lang lover.
 
 ### My main technologies:
-- Front-End: React.js,
-- Back-End: Spring
+- Front-End: Next.js,
+- Back-End: NestJS / Fastify / Express
 
 ### My projects:
+- [https://noodly.projectcode.pl/](https://noodly.projectcode.pl/) - Next.js, Fastify
 - [https://www.lajtpvp.eu/](https://www.lajtpvp.eu/) - Next.js, Vercel, Tailwind
 - [https://projectcode.pl/](https://projectcode.pl/) - React.js
 - [https://blog.projectcode.pl/](https://blog.projectcode.pl/) - React.js, Spring
