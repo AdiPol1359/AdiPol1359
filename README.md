@@ -29,7 +29,6 @@ I'm 17 years old software developer from Poland, mostly focuses on **web develop
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logoColor=white&logo=storybook)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logoColor=white&logo=tailwind%20css)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logoColor=white&logo=sass)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logoColor=white&logo=sass)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logoColor=white&logo=react%20query)
 
 ### Back-end:
