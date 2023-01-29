@@ -5,6 +5,7 @@ I'm 17 years old software developer from Poland, mostly focuses on **web develop
 ### 👨‍💻 My projects and contributions:
 - [https://devfaq.pl/](https://devfaq.pl/)
 - [https://noodly.projectcode.pl/](https://noodly.projectcode.pl/)
+- [https://happy-shop.vercel.app/](https://happy-shop.vercel.app/)
 
 ---
 
