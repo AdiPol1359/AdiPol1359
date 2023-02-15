@@ -47,5 +47,5 @@ I'm 17 years old software developer from Poland, mostly focuses on **web develop
 ![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=for-the-badge&logoColor=white&logo=json%20web%20tokens)
 ---
 
-🌍 My Website: [https://www.adipol.dev/](https://www.adipol.dev/)<br>
+🌍 My Website: [https://adipol.dev/](https://adipol.dev/)<br>
 📱 My Discord: **AdiPol1359#8770**
