@@ -3,6 +3,7 @@
 I'm 17 years old software developer from Poland, mostly focuses on **web development**. I mainly write in **TypeScript** and **Java**. I am also amateur in **C++** and **GoLang**. I hate Java and Spring since **July 2022**. I love **Rust** language.
 
 ### 👨‍💻 My projects and contributions:
+- [https://www.adipol.dev/](https://www.adipol.dev/)
 - [https://devfaq.pl/](https://devfaq.pl/)
 - [https://noodly.projectcode.pl/](https://noodly.projectcode.pl/)
 - [https://happy-shop.vercel.app/](https://happy-shop.vercel.app/)
