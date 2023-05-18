@@ -1,6 +1,6 @@
 ## Hello, I'm AdiPol1359 👋
 
-I'm 17 years old software developer from Poland, mostly focuses on **web development**. I mainly write in **TypeScript** and **Java**. I am also amateur in **C++** and **GoLang**. I haI love **Rust** language.
+I'm 17 years old software developer from Poland, mostly focuses on **web development**. I mainly write in **TypeScript** and **Java**. I am also amateur in **C++** and **GoLang**. I love **Rust** language.
 
 ### 👨‍💻 My projects and contributions:
 - [https://adipol.dev/](https://adipol.dev/)
