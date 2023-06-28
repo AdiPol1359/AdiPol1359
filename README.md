@@ -1,10 +1,12 @@
 ## Hello, I'm AdiPol1359 👋
 
-I'm 18 years old software developer from Poland, mostly focuses on **web development**. I mainly write in **TypeScript** and **Java**. I am also amateur in **C++** and **GoLang**. I love **Rust** language.
+I am an 18-year-old software developer from Poland, who mostly focuses on **web development**. I mainly deal with **frontend** using **TypeScript**, **React.js**, and **Next.js**. I am also learning backend using **Express.js**, **Fastify**, and **NestJS**.
 
 ### 👨‍💻 My projects and contributions:
-- [https://adipol.dev/](https://adipol.dev/)
 - [https://devfaq.pl/](https://devfaq.pl/)
+- [https://picstagram.adipol.dev/](https://picstagram.adipol.dev/)
+- [https://mobius.adipol.dev/](https://mobius.adipol.dev/)
+- [https://adipol.dev/](https://adipol.dev/)
 - [https://noodly.projectcode.pl/](https://noodly.projectcode.pl/)
 - [https://happy-shop.vercel.app/](https://happy-shop.vercel.app/)
 
