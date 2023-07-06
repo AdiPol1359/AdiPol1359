@@ -1,6 +1,6 @@
 ## Hello, I'm AdiPol1359 👋
 
-I am an 18-year-old software developer from Poland, who mostly focuses on **web development**. I mainly deal with **frontend** using **TypeScript**, **React.js**, and **Next.js**. I am also learning backend using **Express.js**, **Fastify**, and **NestJS**.
+I am an 18-year-old software developer from Poland, who mostly focuses on **web development**. I mainly deal with **frontend** using **TypeScript**, **React.js**, and **Next.js**. I am also learning **backend** using **Express.js**, **Fastify**, and **NestJS**.
 
 ### 👨‍💻 My projects and contributions:
 - [https://devfaq.pl/](https://devfaq.pl/)
