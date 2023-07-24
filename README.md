@@ -55,6 +55,7 @@ I am an 18-year-old software developer from Poland, who mostly focuses on **web 
 ![OpenAPI Initiative](https://img.shields.io/badge/-OpenAPI%20Initiative-6BA539?style=for-the-badge&logoColor=white&logo=openapi%20initiative)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logoColor=white&logo=swagger)
 ![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=for-the-badge&logoColor=white&logo=json%20web%20tokens)
+
 ---
 
 🌍 My Website: [https://adipol.dev](https://adipol.dev)<br>
