@@ -9,6 +9,13 @@ I am an 18-year-old software developer from Poland, who mostly focuses on **web 
 - [https://adipol.dev/](https://adipol.dev/)
 - [https://noodly.projectcode.pl/](https://noodly.projectcode.pl/)
 - [https://happy-shop.vercel.app/](https://happy-shop.vercel.app/)
+  
+---
+
+### 📈 GitHub statistics:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adipol1359&show_icons=true" alt="statistics">
+</p>
 
 ---
 
@@ -50,5 +57,5 @@ I am an 18-year-old software developer from Poland, who mostly focuses on **web 
 ![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=for-the-badge&logoColor=white&logo=json%20web%20tokens)
 ---
 
-🌍 My Website: [https://adipol.dev/](https://adipol.dev/)<br>
+🌍 My Website: [https://adipol.dev](https://adipol.dev)<br>
 📱 My Discord: **AdiPol1359#8770**
