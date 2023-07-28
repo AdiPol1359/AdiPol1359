@@ -4,11 +4,11 @@ I am an 18-year-old software developer from Poland, who mostly focuses on **web 
 
 ### 👨‍💻 My projects and contributions:
 - [https://devfaq.pl/](https://devfaq.pl/)
+- [https://adipol.dev/](https://adipol.dev/)
 - [https://discord.adipol.dev/](https://discord.adipol.dev/)
 - [https://picstagram.adipol.dev/](https://picstagram.adipol.dev/)
 - [https://mobius.adipol.dev/](https://mobius.adipol.dev/)
-- [https://adipol.dev/](https://adipol.dev/)
-- [https://noodly.projectcode.pl/](https://noodly.projectcode.pl/)
+- [https://noodly.adipol.dev/](https://noodly.adipol.dev/)
 - [https://happy-shop.vercel.app/](https://happy-shop.vercel.app/)
   
 ---
