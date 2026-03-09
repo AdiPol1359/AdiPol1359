@@ -1,63 +1,17 @@
-## Hello, I'm AdiPol1359 👋
+## Hello, I'm Adrian Polak! 👋
 
-I am an 18-year-old software developer from Poland, who mostly focuses on **web development**. I mainly deal with **frontend** using **TypeScript**, **React.js**, and **Next.js**. I am also learning **backend** using **Express.js**, **Fastify**, and **NestJS**.
+My name is Adrian, I live in Warsaw and work as a Frontend Developer. Programming is my true passion, which I discovered at the age of 11. Even then, I knew that I wanted to develop my skills in this field and work in this profession in the future. I am a highly motivated software developer who constantly strives to expand his knowledge.
 
-### 👨‍💻 My projects and contributions:
-- [https://devfaq.pl/](https://devfaq.pl/)
-- [https://adipol.dev/](https://adipol.dev/)
-- [https://discord.adipol.dev/](https://discord.adipol.dev/)
-- [https://picstagram.adipol.dev/](https://picstagram.adipol.dev/)
-- [https://mobius.adipol.dev/](https://mobius.adipol.dev/)
-- [https://noodly.adipol.dev/](https://noodly.adipol.dev/)
-- [https://happy-shop.vercel.app/](https://happy-shop.vercel.app/)
-  
----
+## Frontend
+I am mainly focused on Frontend Development. I work with technologies such as: **TypeScript**, **NX**, **React.js**, **Next.js**/**Tanstack Router**.
 
-### 📈 GitHub statistics:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adipol1359&show_icons=true" alt="statistics">
-</p>
+At work, I most enjoy taking on the role of an architect – selecting technologies to solve problems _(not the other way around)_, creating software that meets business requirements, and designing scalable systems. I am passionate about Clean Code and Design Patterns, but I try not to overdo it and strike a balance.
 
----
+## Backend
+I also have some Backend knowledge, which I often use to translate certain Design Patterns to the Frontend. I enjoy learning about things like **DDD** or **Hexagonal Architecture**.
 
-## 🛠️ My skills:
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logoColor=white&logo=typescript)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logoColor=white&logo=git)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logoColor=white&logo=eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logoColor=white&logo=prettier)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logoColor=white&logo=npm)
-![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logoColor=white&logo=pnpm)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logoColor=white&logo=yarn)
-![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=for-the-badge&logoColor=white&logo=turborepo)
+In the past, I also created Rest APIs for private projects in technologies such as: **Node.js**, **Nest.js**, **Express**/**Fastify**, **Prisma**, **OpenAPI**.
 
-### Front-end:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=white&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=white&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logoColor=white&logo=babel)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logoColor=white&logo=webpack)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logoColor=white&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logoColor=white&logo=next.js)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logoColor=white&logo=storybook)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logoColor=white&logo=tailwind%20css)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logoColor=white&logo=sass)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logoColor=white&logo=react%20query)
-
-### Back-end:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logoColor=white&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logoColor=white&logo=nestjs)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logoColor=white&logo=fastify)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logoColor=white&logo=express)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logoColor=white&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logoColor=white&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logoColor=white&logo=redis)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logoColor=white&logo=nginx)
-![OpenAPI Initiative](https://img.shields.io/badge/-OpenAPI%20Initiative-6BA539?style=for-the-badge&logoColor=white&logo=openapi%20initiative)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logoColor=white&logo=swagger)
-![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=for-the-badge&logoColor=white&logo=json%20web%20tokens)
-
----
-
-🌍 My Website: [https://adipol.dev](https://adipol.dev)<br>
-📱 My Discord: **AdiPol1359#8770**
+## Links
+🌐 Portfolio: [https://adipol.dev](https://adipol.dev)<br>
+💼 LinkedIn: [https://www.linkedin.com/in/polak-adrian/](https://www.linkedin.com/in/polak-adrian/)
