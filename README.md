@@ -7,7 +7,7 @@ I am mainly focused on Frontend Development. I work with technologies such as: *
 
 At work, I most enjoy taking on the role of an architect – selecting technologies to solve problems _(not the other way around)_, creating software that meets business requirements, and designing scalable systems. I am passionate about **clean code** and **design patterns**, but I try not to overdo it and strike a balance.
 
-I also enjoy working closely with **designers** and doing things that **improve the UI**. I'm interested in things like **Design System**, **Design Tokens**, and creating **pixel-perfect** views.
+I also enjoy working closely with **designers** and doing things that **improve the UI**. I'm interested in things like **Design System**, **Design Tokens**, and creating **pixel-perfect views**.
 
 ## Backend
 I also have some Backend knowledge, which I often use to translate certain **design patterns** to the **Frontend**. I enjoy learning about things like **DDD** or **Hexagonal Architecture**.
