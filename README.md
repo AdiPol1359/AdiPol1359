@@ -5,7 +5,7 @@ My name is Adrian, I live in Warsaw and work as a Frontend Developer. Programmin
 ## Frontend
 I am mainly focused on Frontend Development. I work with technologies such as: **TypeScript**, **NX**, **React.js**, **Next.js**/**Tanstack Router**.
 
-At work, I most enjoy taking on the role of an architect – selecting technologies to solve problems _(not the other way around)_, creating software that meets business requirements, and designing scalable systems. I am passionate about Clean Code and Design Patterns, but I try not to overdo it and strike a balance.
+At work, I most enjoy taking on the role of an architect – selecting technologies to solve problems _(not the other way around)_, creating software that meets business requirements, and designing scalable systems. I am passionate about **clean code** and **design patterns**, but I try not to overdo it and strike a balance.
 
 ## Backend
 I also have some Backend knowledge, which I often use to translate certain Design Patterns to the Frontend. I enjoy learning about things like **DDD** or **Hexagonal Architecture**.
