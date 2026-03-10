@@ -11,7 +11,7 @@ I also enjoy working on things related to the **user interface**. I really enjoy
 ## Backend
 I also have some Backend knowledge, which I particularly use to translate some **design patterns** to the Frontend. I like learning things like **DDD** and **Hexagonal Architecture**.
 
-In the past, I also created REST APIs for private projects in technologies such as **Node.js**, **NestJS**, **Express**/**Fastify**, **Prisma**, and **OpenAPI**.
+In the past, I also created **REST APIs** for private projects in technologies such as **Node.js**, **NestJS**, **Express**/**Fastify**, **Prisma**, and **OpenAPI**.
 
 ## Links
 🌐 Portfolio: [https://adipol.dev](https://adipol.dev)<br>
