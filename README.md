@@ -8,6 +8,8 @@ I mainly deal with Frontend. I work with technologies such as **TypeScript**, **
 At work, I most enjoy playing the role of an architect – matching technology to problem _(not the other way around)_, creating software that meets business requirements, and designing scalable systems. I am also passionate about **clean code** and **different design patterns** – but it's important to strike a balance.
 
 I also enjoy working on things related to the **user interface**. I really enjoy collaborating with designers and thinking about concepts like **Design System** and **Design Tokens**, as well as creating **pixel-perfect views**.
+
+For me, Frontend is not just about writing code. In my work, I try to go beyond this area and think about the **entire product**, **focusing on the business**.
 ## Backend
 I also have some Backend knowledge, which I particularly use to translate some **design patterns** to the Frontend. I like learning things like **DDD** and **Hexagonal Architecture**.
 
